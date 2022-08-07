@@ -1,0 +1,73 @@
+
+Installations:
+  Write Code and Develop
+    VSCode --> https://code.visualstudio.com/download
+  
+  Scource Control Management: ( Storing Different Version of Codebase)
+    Git Tool Installation --> https://git-scm.com/downloads
+  
+  JS Compilation:
+    Node Installation --> https://nodejs.org/en/download/
+  
+Account Creation:
+  Github -> https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+  Make a Local Development Available To Internet
+    Netlify -> https://app.netlify.com/signup
+
+Roadmap Is Half:
+  Module 1:
+    Basic Browser and JS basics
+
+  Module 2:
+    HTML CSS
+
+  Module 3:
+    DOM
+
+  Module 4:
+    Async Programming
+
+  Hackathon
+
+  Mock Interview
+
+Topics:
+
+  Introduction to Web
+
+  Rendering ---> Convert HTML code to Beatiful webpage
+
+  Evolution Of Browsers
+    Mosaic
+    Natscap, Internet Explorer
+    Chrome, Mozilla
+  
+  Hyper Text Mark Up Language
+  HTML Rendering Process Or DOM:
+    DOM --> HMTL Object Model
+      Skeleton Of Webpage
+
+    1. Browser Fetchs the HTML Document
+    2. Parses it via 
+      DOM Tree --> which is used to rendering
+    3. CSS -> Written Inside/outside HTML
+      CCSSOM Tree --> which is used to painting or format the HTML rendered
+      CSS: Presentation/Skin/Makeup ---> Beautification
+
+  JS:
+    functional Brain of HTML --> Client Side( Page User will see ) scripting / functional script
+
+
+  Next Session:
+    BrowserJs vs Nodejs
+    Networking, Data Storage
+
+
+
+    
+  
+
+
+
+
